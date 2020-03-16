@@ -5,7 +5,6 @@ int tamQuad = 40;
 
 void setup()
 {
-  pixelDensity(displayDensity());
   size(600, 600);
   background(255);
   

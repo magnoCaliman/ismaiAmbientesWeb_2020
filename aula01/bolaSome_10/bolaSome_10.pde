@@ -3,7 +3,6 @@ float mudaPosX = 1;
 
 void setup()
 {
-  pixelDensity(displayDensity());
   size(600, 300);
   background(255);
 }

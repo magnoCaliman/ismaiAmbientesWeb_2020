@@ -1,6 +1,5 @@
 void setup()
 {
-  pixelDensity(displayDensity());
   size(800, 500);
   background(255);
 }

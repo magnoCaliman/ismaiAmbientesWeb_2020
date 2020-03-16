@@ -2,7 +2,6 @@ float posicaoAleatoria;
 
 void setup()
 {
-  pixelDensity(displayDensity());
   size(800, 400);
   background(255);
   frameRate(3);
