@@ -12,7 +12,7 @@ void setup()
 
 void draw()
 {
-  for (int i = margem; i < width; i = i + step)
+  for (int i = 0; i <= width; i = i + step)
   {
     ellipse(i, height/2, tam, tam);
   }
